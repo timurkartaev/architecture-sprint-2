@@ -1,6 +1,6 @@
 # pymongo-api
 
-## Задание 1. Планирование
+## Задание 1, 5, 6. Планирование
 
 Ссылка на схему - https://drive.google.com/file/d/16AZDCUjJXFqpJ81D8tW3fi9tqWHIAc7R/view?usp=sharing
 
